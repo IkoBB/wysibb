@@ -3,11 +3,11 @@
   "title": "WysiBB - Wysiwyg BBcode editor",
   "description": "Wysiwyg BBcode editor based on jQuery",
   "keywords": [
-	"wysibb",
+    "wysibb",
     "wysiwyg",
     "bbcode",
-	"editor",
-	"ui"
+    "editor",
+    "ui"
   ],
   "version": "1.5.1",
   "author": {

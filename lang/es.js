@@ -1,5 +1,7 @@
 /*French translation by Charafweb*/
-if (typeof (WBBLANG)=="undefined") {WBBLANG = {};}
+if (typeof (WBBLANG) == "undefined") {
+	WBBLANG = {};
+}
 WBBLANG['es'] = CURLANG = {
 	bold: "Negrita",
 	italic: "Itálica",
@@ -29,40 +31,40 @@ WBBLANG['es'] = CURLANG = {
 	fs_verybig: "Muy grande",
 	smilebox: "Insert emoticono",
 	video: "Insertar vídeo de Youtube",
-	removeFormat:"Quitar formato",
-	
+	removeFormat: "Quitar formato",
+
 	modal_link_title: "Insertar enlace",
 	modal_link_text: "Mostrar texto",
 	modal_link_url: "URL",
 	modal_email_text: "Mostrar Email",
 	modal_email_url: "Email",
 	modal_link_tab1: "Insertar URL",
-	
+
 	modal_img_title: "Insertar imagen",
 	modal_img_tab1: "Insertar URL",
 	modal_img_tab2: "Subir imagen",
 	modal_imgsrc_text: "Introduce una URL para la imagen",
 	modal_img_btn: "Elegir archivo",
 	add_attach: "Añadir adjunto",
-	
+
 	modal_video_text: "Introduce la URL del vídeo",
-	
+
 	close: "Cerrar",
 	save: "Guardar",
 	cancel: "Cancelar",
 	remove: "Borrar",
-	
+
 	validation_err: "Los datos introducidos son inválidos",
 	error_onupload: "Error durante la subida del archivo",
-	
+
 	fileupload_text1: "Suelta el archivo aquí",
 	fileupload_text2: "o",
-	
+
 	loading: "Cargando",
 	auto: "Auto",
 	views: "Vistas",
 	downloads: "Descargas",
-	
+
 	//smiles
 	sm1: "Sonrisa",
 	sm2: "Carcajada",

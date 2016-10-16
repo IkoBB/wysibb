@@ -1,4 +1,6 @@
-if (typeof (WBBLANG)=="undefined") {WBBLANG = {};}
+if (typeof (WBBLANG) == "undefined") {
+	WBBLANG = {};
+}
 WBBLANG['cn'] = {
 	bold: "粗体",
 	italic: "斜体",
@@ -28,7 +30,7 @@ WBBLANG['cn'] = {
 	fs_verybig: "极大",
 	smilebox: "插入表情符",
 	video: "嵌入多媒体",
-	removeFormat:"清除格式",
+	removeFormat: "清除格式",
 
 	modal_link_title: "插入超级链接",
 	modal_link_text: "显示文本",

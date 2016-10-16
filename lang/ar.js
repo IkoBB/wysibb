@@ -1,5 +1,7 @@
 /*Arabic language by Charafweb*/
-if (typeof (WBBLANG)=="undefined") {WBBLANG = {};}
+if (typeof (WBBLANG) == "undefined") {
+	WBBLANG = {};
+}
 WBBLANG['ar'] = {
 	code: "كود:",
 	bold: "سميك",
@@ -30,37 +32,37 @@ WBBLANG['ar'] = {
 	fs_verybig: "كبير جداً",
 	smilebox: "إدراج تعبير وجهي",
 	removeFormat: 'إزالة التنسيق',
-	
+
 	modal_link_title: "إدراج رابط",
 	modal_link_text: "عرض النص",
 	modal_link_url: " رابط",
 	modal_email_text: "عرض البريد الإلكتروني",
 	modal_email_url: "البريد الإلكتروني",
 	modal_link_tab1: "إدراج عنوان URL",
-	
+
 	modal_img_title: "إدراج صورة",
 	modal_img_tab1: "إدراج عنوان URL",
 	modal_img_tab2: "تحميل الصورة",
 	modal_imgsrc_text: "أدخل عنوان URL للصورة",
 	modal_img_btn: "اختر ملف",
 	add_attach: "إرفاق ملف",
-	
+
 	close: "إغلاق",
 	save: "حفظ",
 	cancel: "إلغاء الأمر",
 	remove: "حذف",
-	
+
 	validation_err: "البيانات المدخلة غير صحيحة",
 	error_onupload: "حدث خطأ أثناء تحميل الملف",
-	
+
 	fileupload_text1: "إسقاط الملف هنا",
 	fileupload_text2: "أو",
-	
+
 	loading: "جاري التحميل",
 	auto: "تلقائي",
 	views: "عدد المشاهدات",
 	downloads: "التنزيلات",
-	
+
 	//smiles
 	sm1: "ابتسامة",
 	sm2: "ضحك",

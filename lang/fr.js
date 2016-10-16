@@ -1,5 +1,7 @@
 /*French translation by Charafweb*/
-if (typeof (WBBLANG)=="undefined") {WBBLANG = {};}
+if (typeof (WBBLANG) == "undefined") {
+	WBBLANG = {};
+}
 WBBLANG['fr'] = {
 	bold: "Gras",
 	italic: "Italique",
@@ -30,39 +32,39 @@ WBBLANG['fr'] = {
 	smilebox: "Afficher les émoticônes",
 	video: "Insérer une vidéo YouTube",
 	removeFormat: "Effacer le style",
-	
+
 	modal_link_title: "Insérer un lien",
 	modal_link_text: "Afficher le texte",
 	modal_link_url: "URL",
 	modal_email_text: "Afficher email",
 	modal_email_url: "Email",
 	modal_link_tab1: "Insérez URL",
-	
+
 	modal_img_title: "Insérer une image",
 	modal_img_tab1: "Insérer URL",
 	modal_img_tab2: "Téléchargez image",
 	modal_imgsrc_text: "Entrez l'URL de l'image",
 	modal_img_btn: "Choisir un fichier",
 	add_attach: "Joindre un fichier",
-	
+
 	modal_video_text: "Entrez l'URL de la vidéo",
-	
+
 	close: "Fermer",
 	save: "Sauvegarder",
 	cancel: "Annuler",
 	remove: "Effacer",
-	
+
 	validation_err: "Les données saisies sont invalides",
 	error_onupload: "Erreur lors du chargement du fichier",
-	
+
 	fileupload_text1: "Déposez le fichier ici",
 	fileupload_text2: "ou",
-	
+
 	loading: "Chargement",
 	auto: "Auto",
 	views: "Vues",
 	downloads: "Téléchargements",
-	
+
 	//smiles
 	sm1: "Sourire",
 	sm2: "Rire",
